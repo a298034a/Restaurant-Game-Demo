@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5556130e2193261419a5a0bc7599c5aa, type: 3}
+  m_Name: CustomerAsset
+  m_EditorClassIdentifier: 
+  Datas:
+  - ID: 0
+    Name: Customer01
+    Money: 10
+    RuntimeAnimatorController: {fileID: 9100000, guid: bd7d021f8fd97e34ea87244a607e3fd5,
+      type: 2}
+  - ID: 1
+    Name: Customer02
+    Money: 10
+    RuntimeAnimatorController: {fileID: 9100000, guid: 0739c460f2e81c14f915384df206b530,
+      type: 2}

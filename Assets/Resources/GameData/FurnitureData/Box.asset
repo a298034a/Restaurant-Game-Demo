@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 34e811bb08dcddf4eb7fe14d21d2a696, type: 3}
+  m_Name: Box
+  m_EditorClassIdentifier: 
+  Name: Box
+  Type: Storage
+  Price: 0
+  Charm: 0
+  Size: {x: 1, y: 1, z: 1}
+  Sprites:
+  - {fileID: 4727633781103762509, guid: 809b27d6548e0be49be5f56b1696db97, type: 3}
+  - {fileID: -7871530612760024436, guid: 809b27d6548e0be49be5f56b1696db97, type: 3}
+  - {fileID: 8441712382528523809, guid: 809b27d6548e0be49be5f56b1696db97, type: 3}
+  - {fileID: -6281331817050215206, guid: 809b27d6548e0be49be5f56b1696db97, type: 3}

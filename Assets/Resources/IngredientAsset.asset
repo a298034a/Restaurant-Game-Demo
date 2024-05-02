@@ -1,0 +1,96 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c5ee41dd29699487da3d0c466a4a9f8d, type: 3}
+  m_Name: IngredientAsset
+  m_EditorClassIdentifier: 
+  Datas:
+  - ID: 3
+    Name: Egg
+    Charge: 0
+    Price: 3
+    Ground: 1
+    Water: 0
+    Fire: 0
+    Wind: 0
+    Days: 1
+  - ID: 4
+    Name: Duck
+    Charge: 0
+    Price: 5
+    Ground: 0
+    Water: 0
+    Fire: 0
+    Wind: 0
+    Days: 1
+  - ID: 5
+    Name: Feather
+    Charge: 0
+    Price: 3
+    Ground: 0
+    Water: 0
+    Fire: 1
+    Wind: 0
+    Days: 1
+  - ID: 6
+    Name: Milk
+    Charge: 0
+    Price: 5
+    Ground: 0
+    Water: 1
+    Fire: 0
+    Wind: 0
+    Days: 1
+  - ID: 7
+    Name: Mushroom
+    Charge: 3
+    Price: 8
+    Ground: 1
+    Water: 0
+    Fire: 1
+    Wind: 0
+    Days: 1
+  - ID: 8
+    Name: Leaf
+    Charge: 5
+    Price: 5
+    Ground: 0
+    Water: 0
+    Fire: 2
+    Wind: 0
+    Days: 5
+  - ID: 9
+    Name: Meat
+    Charge: 5
+    Price: 12
+    Ground: 1
+    Water: 1
+    Fire: 0
+    Wind: 0
+    Days: 5
+  - ID: 10
+    Name: Powder
+    Charge: 5
+    Price: 7
+    Ground: 0
+    Water: 1
+    Fire: 0
+    Wind: 0
+    Days: 5
+  - ID: 11
+    Name: Sap
+    Charge: 5
+    Price: 10
+    Ground: 0
+    Water: 0
+    Fire: 3
+    Wind: 0
+    Days: 5

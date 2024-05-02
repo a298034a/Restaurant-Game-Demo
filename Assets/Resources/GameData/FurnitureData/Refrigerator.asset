@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 34e811bb08dcddf4eb7fe14d21d2a696, type: 3}
+  m_Name: Refrigerator
+  m_EditorClassIdentifier: 
+  Name: Refrigerator
+  Type: Refrigerator
+  Price: 0
+  Charm: 0
+  Size: {x: 1, y: 1, z: 1}
+  Sprites:
+  - {fileID: -2252083909272842676, guid: dcbbd63e4fe0e444eba5ffef9ffe0538, type: 3}
+  - {fileID: 2394075485129424509, guid: dcbbd63e4fe0e444eba5ffef9ffe0538, type: 3}
+  - {fileID: -7146162715889543585, guid: dcbbd63e4fe0e444eba5ffef9ffe0538, type: 3}
+  - {fileID: 7620131446651917530, guid: dcbbd63e4fe0e444eba5ffef9ffe0538, type: 3}
